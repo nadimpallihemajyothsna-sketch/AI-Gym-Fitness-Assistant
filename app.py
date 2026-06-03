@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 client = Groq(
-    api_key="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"
+    api_key=""
 )
 
 # =========================
