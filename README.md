@@ -61,4 +61,3 @@ https://github.com/nadimpallihemajyothsna-sketch/AI-Gym-Fitness-Assistant.git
 =======
 # AI-Gym-Fitness-Assistant
 AI-powered fitness assistant built using Streamlit, Groq AI, SQLite, Pandas, and Plotly.
->>>>>>> 96cdb687839a044d8082956ad83c5da481d1f08d
