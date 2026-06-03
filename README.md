@@ -57,7 +57,7 @@ Hema Jyothsna Nadimpalli
 
 ## GitHub Repository
 
-Add your GitHub repository link here.
+https://github.com/nadimpallihemajyothsna-sketch/AI-Gym-Fitness-Assistant.git
 =======
 # AI-Gym-Fitness-Assistant
 AI-powered fitness assistant built using Streamlit, Groq AI, SQLite, Pandas, and Plotly.
