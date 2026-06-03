@@ -15,8 +15,13 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 client = Groq(
-    api_key=""
+    api_key=os.getenv("GROQ_API_KEY")
 )
 
 # =========================
