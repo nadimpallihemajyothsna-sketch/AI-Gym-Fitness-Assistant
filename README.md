@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Gym & Fitness Assistant
 
 ## Project Overview
